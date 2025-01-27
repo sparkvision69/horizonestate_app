@@ -1,0 +1,272 @@
+[
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f01",
+      "title": "Luxury Villa",
+      "location": "New York",
+      "price": "$120000",
+      "rating": 4.8,
+      "category": "villa",
+      "image": "../assets/property/villa.jpg"
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f02",
+      "title": "Cozy House",
+      "location": "Los Angeles",
+      "price": "$85000",
+      "rating": 4.5,
+      "category": "house",
+      "image":  "../../../assets/property/house.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f03",
+      "title": "Modern Flat",
+      "location": "Chicago",
+      "price": "$60000",
+      "rating": 4.2,
+      "category": "flat",
+      "image":  "../../../assets/property/flat.jpeg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f04",
+      "title": "Beachside Villa",
+      "location": "Miami",
+      "price": "$150000",
+      "rating": 4.9,
+      "category": "villa",
+      "image":  "../../../assets/property/villa1.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f05",
+      "title": "Countryside House",
+      "location": "Austin",
+      "price": "$75000",
+      "rating": 4.4,
+      "category": "house",
+      "image":  "../../../assets/property/house1.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f06",
+      "title": "Penthouse Flat",
+      "location": "Seattle",
+      "price": "$110000",
+      "rating": 4.7,
+      "category": "flat",
+      "image":  "../../../assets/property/flat1.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f07",
+      "title": "Garden Villa",
+      "location": "San Diego",
+      "price": "$125000",
+      "rating": 4.6,
+      "category": "villa",
+      "image":  "../../../assets/property/villa2.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f08",
+      "title": "Suburban House",
+      "location": "Denver",
+      "price": "$70000",
+      "rating": 4.3,
+      "category": "house",
+      "image":  "../../../assets/property/house2.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f09",
+      "title": "City Center Flat",
+      "location": "Boston",
+      "price": "$95000",
+      "rating": 4.5,
+      "category": "flat",
+      "image":  "../../../assets/property/flat2.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f10",
+      "title": "Mountain View Villa",
+      "location": "Salt Lake City",
+      "price": "$140000",
+      "rating": 4.7,
+      "category": "villa",
+      "image":  "../../../assets/property/villa3.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f11",
+      "title": "Modern House",
+      "location": "Portland",
+      "price": "$80000",
+      "rating": 4.5,
+      "category": "house",
+      "image":  "../../../assets/property/house3.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f12",
+      "title": "Studio Flat",
+      "location": "Las Vegas",
+      "price": "$55000",
+      "rating": 4.1,
+      "category": "flat",
+      "image":  "../../../assets/property/flat3.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f13",
+      "title": "Private Villa",
+      "location": "San Francisco",
+      "price": "$160000",
+      "rating": 4.8,
+      "category": "villa",
+      "image":  "../../../assets/property/villa4.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f14",
+      "title": "Family House",
+      "location": "Phoenix",
+      "price": "$75000",
+      "rating": 4.4,
+      "category": "house",
+      "image":  "../../../assets/property/house4.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f15",
+      "title": "Luxury Flat",
+      "location": "Dallas",
+      "price": "$100000",
+      "rating": 4.6,
+      "category": "flat",
+      "image":  "../../../assets/property/flat4.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f16",
+      "title": "Oceanfront Villa",
+      "location": "Santa Monica",
+      "price": "$170000",
+      "rating": 4.9,
+      "category": "villa",
+      "image":  "../../../assets/property/villa5.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f17",
+      "title": "Elegant House",
+      "location": "Atlanta",
+      "price": "$85000",
+      "rating": 4.6,
+      "category": "house",
+      "image":  "../../../assets/property/house5.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f18",
+      "title": "Compact Flat",
+      "location": "San Jose",
+      "price": "$50000",
+      "rating": 4.2,
+      "category": "flat",
+      "image":  "../../../assets/property/flat5.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f19",
+      "title": "Secluded Villa",
+      "location": "Palm Springs",
+      "price": "$130000",
+      "rating": 4.7,
+      "category": "villa",
+      "image":  "../../../assets/property/villa6.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f20",
+      "title": "Ranch House",
+      "location": "Houston",
+      "price": "$80000",
+      "rating": 4.3,
+      "category": "house",
+      "image":  "../../../assets/property/house6.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f21",
+      "title": "Central Flat",
+      "location": "Orlando",
+      "price": "$70000",
+      "rating": 4.4,
+      "category": "flat",
+      "image":  "../../../assets/property/flat6.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f22",
+      "title": "Hilltop Villa",
+      "location": "Boulder",
+      "price": "$145000",
+      "rating": 4.8,
+      "category": "villa",
+      "image":  "../../../assets/property/villa7.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f23",
+      "title": "Colonial House",
+      "location": "Savannah",
+      "price": "$70000",
+      "rating": 4.2,
+      "category": "house",
+      "image":  "../../../assets/property/house7.jpeg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f24",
+      "title": "Minimalist Flat",
+      "location": "Minneapolis",
+      "price": "$65000",
+      "rating": 4.1,
+      "category": "flat",
+      "image":  "../../../assets/property/flat7.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f25",
+      "title": "Exclusive Villa",
+      "location": "Malibu",
+      "price": "$200000",
+      "rating": 4.9,
+      "category": "villa",
+      "image":  "../../../assets/property/villa8.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f26",
+      "title": "Brick House",
+      "location": "Indianapolis",
+      "price": "$78000",
+      "rating": 4.3,
+      "category": "house",
+      "image":  "../../../assets/property/house8.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f27",
+      "title": "Skyline Flat",
+      "location": "Charlotte",
+      "price": "$95000",
+      "rating": 4.5,
+      "category": "flat",
+      "image":  "../../assets/property/flat8.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f28",
+      "title": "Architectural Villa",
+      "location": "Aspen",
+      "price": "$185000",
+      "rating": 4.9,
+      "category": "villa",
+      "image":  "../../../assets/property/villa9.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f29",
+      "title": "Historic House",
+      "location": "Charleston",
+      "price": "$72000",
+      "rating": 4.4,
+      "category": "house",
+      "image":  "../../../assets/property/house9.jpg" 
+    },
+    {
+      "_id": "64a1bcf0a9c3e124ab1c0f30",
+      "title": "Downtown Flat",
+      "location": "Philadelphia",
+      "price": "$85000",
+      "rating": 4.3,
+      "category": "flat",
+      "image":  "../../../assets/property/flat9.jpg" 
+    }
+  ]
